@@ -1,0 +1,136 @@
+/* 
+    Created on : 12-Mar-2018, 2:34:12 PM
+    Author     : David
+*/
+#header {
+    text-align: center;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    border : 1px black solid;
+    border-bottom: none;
+}
+
+#header p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+ul li {
+    text-align: center;
+}
+
+#logoLarge {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+#greetings p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#directionsButton {
+    position: relative;
+    display: block;
+    float: right;
+    bottom: 5px;
+}
+
+.reviewPhoto {
+    display: block;
+    float: left;
+    clear: left;
+}
+
+.reviewName {
+    display: block;
+    font-weight: bold;
+    float: right;
+    text-align: left;
+}
+
+.reviewRating {
+    display: block;
+    float: right;
+    clear: right;
+}
+
+.reviewText {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    float: left;
+    clear: both;
+}
+
+body {
+    overflow: hidden;
+}
+
+#map {
+    height: 1000px;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+}
+
+#informationPanel {
+    padding: 0;
+    height: 100%;
+    position: absolute;
+    overflow: auto;
+    width: 400px;
+}
+
+#greetings {
+    width: 100%;
+}
+
+.panel {
+    margin: 0;
+}
+
+#reviewsPanel {
+}
+
+.glyphicon {
+    margin-right: 5px;
+}
+
+#name {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.panel-heading {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+span.stars, span.stars span {
+    display: inline-block;
+    background: url(../images/stars.png) 0 -16px repeat-x;
+    width: 80px;
+    height: 16px;
+}
+
+span.stars span {
+    background-position: 0 0;
+}
+
+#rating {
+    margin-right: 5px;
+}
+
+.d-block {
+    margin:auto;
+    max-height: 400px;
+    min-width: auto;
+}

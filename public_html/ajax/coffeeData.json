@@ -1,0 +1,740 @@
+[
+ {
+   "name": "1363560 ONTARIO INC., O/A WILLIAMS COFFEE HOUSE",
+   "address": "1309 MAIN ST W  HAMILTON ON L8S 1C5",
+   "latitude": 43.2572555,
+   "longitude": -79.9179147
+ },
+ {
+   "name": "1837839 ONTARIO INC. O/A P.A.M.'S COFFEE & TEA CO",
+   "address": "2 KING ST W  HAMILTON ON",
+   "latitude": 43.2584237,
+   "longitude": -79.8692337
+ },
+ {
+   "name": "1849409 ONTARIO INC O/A COFFEE AND DONUTS",
+   "address": "77 JAMES ST N  HAMILTON ON L8R 2K3",
+   "latitude": 43.2605498,
+   "longitude": -79.8669098
+ },
+ {
+   "name": "1919880 ONTARIO INC O/A SMALLS COFFEE",
+   "address": "8 CANNON ST E  HAMILTON ON",
+   "latitude": 43.2675097,
+   "longitude": -79.8808039
+ },
+ {
+   "name": "2351803 ONTARIO INC. O/A BROWN DOG COFFEE SHOPPE",
+   "address": "211 LOCKE ST S  HAMILTON ON L8R 4B6",
+   "latitude": 43.247664,
+   "longitude": -79.8178136
+ },
+ {
+   "name": "2358193 ONTARIO INC O/A COFFEE CULTURE & EATRY",
+   "address": "89 KING ST E  HAMILTON ON",
+   "latitude": 43.261816,
+   "longitude": -79.8574206
+ },
+ {
+   "name": "9407375 CANADA INC. O/A P.A.M.'S COFFEE & TEA CO.",
+   "address": "2 KING ST W  HAMILTON ON",
+   "latitude": 43.2582697,
+   "longitude": -79.8730603
+ },
+ {
+   "name": "CANNON COFFEE CO LTD",
+   "address": "179 OTTAWA ST N  HAMILTON ON",
+   "latitude": 43.2582697,
+   "longitude": -79.8730603
+ },
+ {
+   "name": "COFFEE MARIE INC O/A TIM HORTONS",
+   "address": "200 BARTON ST E  HAMILTON ON",
+   "latitude": 43.2559673,
+   "longitude": -79.8661587
+ },
+ {
+   "name": "DURAND COFFEE",
+   "address": "142 CHARLTON AVE W  HAMILTON ON L8P 2C7",
+   "latitude": 43.2515199,
+   "longitude": -79.8789321
+ },
+ {
+   "name": "GRANDADS COFFEE & DONUTS",
+   "address": "574 JAMES ST N  HAMILTON ON L8L 1J7",
+   "latitude": 43.2721007,
+   "longitude": -79.8621156
+ },
+ {
+   "name": "HANSON HOLDINGS JAVA INC O/A COFFEE CULTURE",
+   "address": "140 CENTENNIAL PKWY N  HAMILTON ON L8E 3H2",
+   "latitude": 43.2502265,
+   "longitude": -79.8163562
+ },
+ {
+   "name": "LOCKE STREET COFFEEHOUSE INC",
+   "address": "202 LOCKE ST S  HAMILTON ON L8R 4B4",
+   "latitude": 43.2502265,
+   "longitude": -79.8163562
+ },
+ {
+   "name": "MUNCHIE'S COFFEEHOUSE & BARKERY",
+   "address": "1000 UPPER GAGE AVE  HAMILTON ON L8V 4K9",
+   "latitude": 43.2618734,
+   "longitude": -79.8670243
+ },
+ {
+   "name": "MY DOG JOE JAMESVILLE INC. O/A MULBERRY STREET COFFEEHOUSE",
+   "address": "193 JAMES ST N  HAMILTON ON",
+   "latitude": 43.2672083,
+   "longitude": -79.880584
+ },
+ {
+   "name": "OTTAWA STREET COFFEE COMPANY LIMITED",
+   "address": "292 OTTAWA ST N  HAMILTON ON",
+   "latitude": 43.233076,
+   "longitude": -79.7609284
+ },
+ {
+   "name": "PAISLEY COFFEEHOUSE AND EATERY",
+   "address": "1020 KING ST W  HAMILTON ON L8S 1L4",
+   "latitude": 43.2622167,
+   "longitude": -79.9058682
+ },
+ {
+   "name": "RED CROW COFFEE INC",
+   "address": "211 JAMES ST S  HAMILTON ON",
+   "latitude": 43.2136357,
+   "longitude": -79.8462179
+ },
+ {
+   "name": "RICKRACK COFFEE HOUSE",
+   "address": "292 OTTAWA ST N  HAMILTON ON",
+   "latitude": 43.2502231,
+   "longitude": -79.8717559
+ },
+ {
+   "name": "STARBUCKS COFFEE CANADA INC",
+   "address": "1341 MAIN ST W  HAMILTON ON L8S 1C6",
+   "latitude": 43.2177265,
+   "longitude": -79.861375
+ },
+ {
+   "name": "STARBUCKS COFFEE CANADA INC O/A STARBUCKS COFFEE",
+   "address": "46 KING ST W  DUNDAS ON",
+   "latitude": 43.2195474,
+   "longitude": -79.7253467
+ },
+ {
+   "name": "STARBUCKS COFFEE CANADA INC O/A STARBUCKS COFFEE",
+   "address": "151 YORK BLVD  HAMILTON ON",
+   "latitude": 43.257386,
+   "longitude": -79.9193497
+ },
+ {
+   "name": "STARBUCKS COFFEE CANADA INC O/A STARBUCKS COFFEE",
+   "address": "369 HWY 8  STONEY CREEK ON",
+   "latitude": 43.2561577,
+   "longitude": -79.885573
+ },
+ {
+   "name": "STARBUCKS COFFEE CANADA INC O/A STARBUCKS COFFEE",
+   "address": "1100 WILSON ST W  ANCASTER ON",
+   "latitude": 43.2604924,
+   "longitude": -79.874056
+ },
+ {
+   "name": "STARBUCKS COFFEE CANADA INC O/A STARBUCKS COFFEE",
+   "address": "999 UPPER WENTWORTH ST  HAMILTON ON L9A 4X5",
+   "latitude": 43.2661473,
+   "longitude": -79.9560139
+ },
+ {
+   "name": "STARBUCKS COFFEE CANADA INC O/A STARBUCKS COFFEE",
+   "address": "158 LOCKE ST S  HAMILTON ON",
+   "latitude": 43.1980167,
+   "longitude": -80.016069
+ },
+ {
+   "name": "STARBUCKS COFFEE CANADA INC. O/A STARBUCKS COFFEE #23048",
+   "address": "220 WILSON ST E  ANCASTER ON",
+   "latitude": 43.2231449,
+   "longitude": -79.9785991
+ },
+ {
+   "name": "STARBUCKS COFFEE COMPANY",
+   "address": "1508 UPPER JAMES ST  HAMILTON ON B0K 1S0",
+   "latitude": 43.1955031,
+   "longitude": -79.8101509
+ },
+ {
+   "name": "THE PINECONE COFFEE COMPANY INC",
+   "address": "175 JOHN ST S  HAMILTON ON",
+   "latitude": 43.2625054,
+   "longitude": -79.9051272
+ },
+ {
+   "name": "THE SECOND CUP LTD. O/A SECOND CUP COFFEE CO",
+   "address": "1004 KING ST W  HAMILTON ON L8S 1L1",
+   "latitude": 43.251387,
+   "longitude": -79.8682451
+ },
+ {
+   "name": "TURNER COFFEE COMPANY LTD. O/A SALTY ESPRESSO",
+   "address": "175 JOHN ST S  HAMILTON ON",
+   "latitude": 43.251387,
+   "longitude": -79.8682451
+ },
+ {
+   "name": "VINTAGE COFFEE ROASTERS",
+   "address": "977 KING ST E  HAMILTON ON",
+   "latitude": 43.2402651,
+   "longitude": -79.8085813
+ },
+ {
+   "name": "WARD IV COFFEE BAR",
+   "address": "1441 MAIN ST E  HAMILTON ON",
+   "latitude": 43.2196764,
+   "longitude": -79.8436341
+ },
+ {
+   "name": "1059181 ONTARIO INC. O/A TIM HORTONS",
+   "address": "2651 REGIONAL ROAD 56  GLANBROOK ON",
+   "latitude": 43.2513323,
+   "longitude": -79.8353815
+ },
+ {
+   "name": "1205979 ONTARIO INC O/A TIM HORTONS",
+   "address": "1368 UPPER GAGE AVE  HAMILTON ON L8W 1N2",
+   "latitude": 43.2020208,
+   "longitude": -79.8506825
+ },
+ {
+   "name": "1205979 ONTARIO INC. O/A TIM HORTONS",
+   "address": "675 MOHAWK RD E  HAMILTON ON L8V 2K6",
+   "latitude": 43.1209256,
+   "longitude": -79.8045413
+ },
+ {
+   "name": "1264221 ONTARIO LIMITED O/A TIM HORTONS DONUT ",
+   "address": "951 KING ST W  HAMILTON ON L8S 1K9",
+   "latitude": 43.2626915,
+   "longitude": -79.9033088
+ },
+ {
+   "name": "1435494 ONTARIO INC. O/A TIM HORTONS",
+   "address": "642 STONE CHURCH RD W  HAMILTON ON L9B 1V3",
+   "latitude": 43.2187419,
+   "longitude": -79.9177754
+ },
+ {
+   "name": "1435494 ONTARIO INC. O/A TIM HORTON'S",
+   "address": "370 WILSON ST E  ANCASTER ON",
+   "latitude": 43.2272872,
+   "longitude": -79.9759322
+ },
+ {
+   "name": "1555965 ONTARIO INC. O/A TIM HORTONS",
+   "address": "473 CONCESSION ST  HAMILTON ON",
+   "latitude": 43.2582697,
+   "longitude": -79.8730603
+ },
+ {
+   "name": "1694375 ONTARIO LIMITED. O/A TIM HORTONS",
+   "address": "2 KING ST W  HAMILTON ON",
+   "latitude": 43.2582697,
+   "longitude": -79.8730603
+ },
+ {
+   "name": "1694375 ONTARIO LIMITED. O/A TIM HORTONS",
+   "address": "2 KING ST W  HAMILTON ON",
+   "latitude": 43.2208915,
+   "longitude": -79.8516892
+ },
+ {
+   "name": "1694375 ONTARIO LTD O/A TIM HORTONS",
+   "address": "50 DUNDURN ST S  HAMILTON ON L8P 4W3",
+   "latitude": 43.2420508,
+   "longitude": -79.8555387
+ },
+ {
+   "name": "1694375 ONTARIO LTD O/A TIM HORTONS",
+   "address": "443 MAIN ST W  HAMILTON ON L8P 1K5",
+   "latitude": 43.2592692,
+   "longitude": -79.8875763
+ },
+ {
+   "name": "1775282 ONTARIO INC. O/A TIM HORTONS #5271",
+   "address": "1712 STONE CHURCH RD E  STONEY CREEK ON",
+   "latitude": 43.2612431,
+   "longitude": -79.8893254
+ },
+ {
+   "name": "1775282 ONTARIO LTD. O/A TIM HORTONS #3272",
+   "address": "1799 STONE CHURCH RD E BLDG 8 STONEY CREEK ON",
+   "latitude": 43.1924905,
+   "longitude": -79.8141135
+ },
+ {
+   "name": "2125963 ONTARIO LTD O/A TIM HORTONS",
+   "address": "528 MOHAWK RD E  HAMILTON ON L8V 2J6",
+   "latitude": 43.1920958,
+   "longitude": -79.8122577
+ },
+ {
+   "name": "2233860 ONTARIO INC O/A TIM HORTON",
+   "address": "977 UPPER OTTAWA ST  HAMILTON ON L8T 4V9",
+   "latitude": 43.1900208,
+   "longitude": -79.7699734
+ },
+ {
+   "name": "572898 ONTARIO INC. O/A TIM HORTONS",
+   "address": "249 UPPER CENTENNIAL PKWY  STONEY CREEK ON L8J 2V7",
+   "latitude": 43.2106415,
+   "longitude": -79.83526
+ },
+ {
+   "name": "572898 ONTARIO INC. O/A TIM HORTONS",
+   "address": "244 UPPER CENTENNIAL PKWY  STONEY CREEK ON",
+   "latitude": 43.2659505,
+   "longitude": -79.9497032
+ },
+ {
+   "name": "690721 ONTARIO LTD O/A TIM HORTON'S",
+   "address": "32 YORK RD  DUNDAS ON L9H 1L4",
+   "latitude": 43.1895591,
+   "longitude": -79.7688323
+ },
+ {
+   "name": "690721 ONTARIO LTD O/A TIM HORTON'S",
+   "address": "86 MAIN ST  DUNDAS ON L9H 2R1",
+   "latitude": 43.2627275,
+   "longitude": -79.9524689
+ },
+ {
+   "name": "983043 ONTARIO INC. O.A TIM HORTONS #530",
+   "address": "2200 RYMAL RD E  GLANBROOK ON",
+   "latitude": 43.1733089,
+   "longitude": -79.7807885
+ },
+ {
+   "name": "ARAMARK CANADA LTD O/A TIM HORTONS",
+   "address": "50 CHARLTON AVE E  HAMILTON ON",
+   "latitude": 43.2475345,
+   "longitude": -79.8728218
+ },
+ {
+   "name": "ARAMARK CANADA LTD O/A TIM HORTONS",
+   "address": "301 JAMES ST S  HAMILTON ON",
+   "latitude": 43.2492685,
+   "longitude": -79.8699962
+ },
+ {
+   "name": "ARAMARK CANADA LTD. O/A TIM HORTONS",
+   "address": "100 WEST 5TH ST  HAMILTON ON",
+   "latitude": 43.2492685,
+   "longitude": -79.8699962
+ },
+ {
+   "name": "ARAMARK HOLDINGS O/A TIM HORTONS",
+   "address": "50 CHARLTON AVE E  HAMILTON ON",
+   "latitude": 43.240445,
+   "longitude": -79.8841077
+ },
+ {
+   "name": "CHRISMAT MANAGEMENT INC. O/A TIM HORTONS",
+   "address": "529 HWY 8  STONEY CREEK ON L8G 1G4",
+   "latitude": 43.2275548,
+   "longitude": -79.8382091
+ },
+ {
+   "name": "CK. & R. INVESTMENTS O/A TIM HORTON DONUT",
+   "address": "952 FENNELL AVE E  HAMILTON ON",
+   "latitude": 43.2160372,
+   "longitude": -79.7133663
+ },
+ {
+   "name": "DAVID-MAUR HOLDING CORP /TIM HORTONS",
+   "address": "799 BARTON ST E  HAMILTON ON L8L 3B2",
+   "latitude": 43.2551727,
+   "longitude": -79.8291335
+ },
+ {
+   "name": "DAVID-MAUR HOLDINGS CORP O/A TIM HORTONS",
+   "address": "505 CANNON ST E  HAMILTON ON",
+   "latitude": 43.227835,
+   "longitude": -79.9373064
+ },
+ {
+   "name": "DR. DONUT O/A TIM HORTONS",
+   "address": "570 UPPER OTTAWA ST  HAMILTON ON L8T 3T2",
+   "latitude": 43.2262425,
+   "longitude": -79.8296086
+ },
+ {
+   "name": "EBONYREX ENTERPRISES O/A TIM HORTONS",
+   "address": "75 CENTENNIAL PKWY N  HAMILTON ON L8E 2P2",
+   "latitude": 43.2285039,
+   "longitude": -79.9435737
+ },
+ {
+   "name": "ENTERPRISE 1000 INC    O/A TIM HORTONS",
+   "address": "1136 GOLF LINKS RD  ANCASTER ON L9K 1J8",
+   "latitude": 43.2308333,
+   "longitude": -79.7657856
+ },
+ {
+   "name": "ENTERPRISE 1000 INC    O/A TIM HORTONS",
+   "address": "977 GOLF LINKS RD  ANCASTER ON L8G 3T9",
+   "latitude": 43.2553608,
+   "longitude": -79.8441137
+ },
+ {
+   "name": "ENTERPRISE 1000 INC O/A TIM HORTONS (TERMINAL)",
+   "address": "9300 AIRPORT RD  GLANBROOK ON",
+   "latitude": 43.2211838,
+   "longitude": -79.8623099
+ },
+ {
+   "name": "ENTERPRISE 1000 INC. O/A TIM HORTONS",
+   "address": "990 UPPER WENTWORTH ST  HAMILTON ON L9A 4V9",
+   "latitude": 39.2232341,
+   "longitude": -121.0133728
+ },
+ {
+   "name": "ENTERPRISE 1000 INC. O/A TIM HORTONS",
+   "address": "863 UPPER WENTWORTH ST  HAMILTON ON",
+   "latitude": 43.2174966,
+   "longitude": -79.8656093
+ },
+ {
+   "name": "HB RESTAURANTS INC O/A TIM HORTONS",
+   "address": "1554 MAIN ST W  HAMILTON ON L8S 1E5",
+   "latitude": 43.2577452,
+   "longitude": -79.9257173
+ },
+ {
+   "name": "HB RESTAURANTS INC O/A TIM HORTON'S",
+   "address": "1445 MAIN ST W  HAMILTON ON L8S 1C8",
+   "latitude": 43.2262425,
+   "longitude": -79.8296086
+ },
+ {
+   "name": "KLASANNA MGMT INC. O/A TIM HORTONS",
+   "address": "30 QUEENSTON RD  HAMILTON ON",
+   "latitude": 43.236237,
+   "longitude": -79.8008469
+ },
+ {
+   "name": "LAAR FOODS LTD O/A TIM HORTON'S",
+   "address": "1816 RYMAL RD E  GLANBROOK ON",
+   "latitude": 43.2252896,
+   "longitude": -79.8825718
+ },
+ {
+   "name": "LAAR FOODS LTD.  O/A TIM HORTON'S",
+   "address": "894 UPPER JAMES ST  HAMILTON ON",
+   "latitude": 43.22625,
+   "longitude": -79.8832437
+ },
+ {
+   "name": "LAAR FOODS LTD.  O/A TIM HORTON'S",
+   "address": "917 UPPER JAMES ST  HAMILTON ON L9C 3A3",
+   "latitude": 43.2114887,
+   "longitude": -79.8885595
+ },
+ {
+   "name": "LAAR FOODS LTD.  O/A TIM HORTON'S",
+   "address": "1341 UPPER JAMES ST  HAMILTON ON L9C 3B3",
+   "latitude": 43.2572342,
+   "longitude": -79.9227852
+ },
+ {
+   "name": "LAAR FOODS LTD. O/A TIM HORTONS",
+   "address": "813 UPPER JAMES ST  HAMILTON ON",
+   "latitude": 43.1738853,
+   "longitude": -79.7795446
+ },
+ {
+   "name": "LENKOVA LIMITED O/A TIM HORTONS",
+   "address": "2812 KING ST E  HAMILTON ON",
+   "latitude": 43.2281028,
+   "longitude": -79.8814652
+ },
+ {
+   "name": "MLC RESTAURANT MANAGEMENT INC. O/A TIM HORTONS",
+   "address": "570 UPPER OTTAWA ST  HAMILTON ON L8T 3T2",
+   "latitude": 43.2196878,
+   "longitude": -79.7718773
+ },
+ {
+   "name": "MMM TIM'S INC O/A TIM HORTONS",
+   "address": "80 JOHN ST S  HAMILTON ON L8N 2C1",
+   "latitude": 43.2537019,
+   "longitude": -79.8677608
+ },
+ {
+   "name": "MMM TIM'S INC O/A TIM HORTONS",
+   "address": "35 KING ST E  HAMILTON ON L8R 1N3",
+   "latitude": 43.2265998,
+   "longitude": -79.8713118
+ },
+ {
+   "name": "OLIVIA MAT INC. O/A TIM HORTON'S",
+   "address": "102 HWY 8  STONEY CREEK ON L8G 4H3",
+   "latitude": 43.2565872,
+   "longitude": -79.8679042
+ },
+ {
+   "name": "PIONEER FOOD SERVICES LTD   O/A TIM HORTONS",
+   "address": "1180 WILSON ST W  ANCASTER ON",
+   "latitude": 43.2242199,
+   "longitude": -79.7485632
+ },
+ {
+   "name": "REDEEMER UNIVERSITY COLLEGE O/A TIM HORTONS",
+   "address": "777 GARNER RD E  ANCASTER ON",
+   "latitude": 43.1957576,
+   "longitude": -80.0210433
+ },
+ {
+   "name": "RYKIT MANAGEMENT LTD O/A TIM HORTONS",
+   "address": "1317 BARTON ST E UNIT 4 HAMILTON ON L8H 2V4",
+   "latitude": 43.2092568,
+   "longitude": -79.9485615
+ },
+ {
+   "name": "S&S GALLOWAY INVESTMENTS INC. O/A TIM HORTONS",
+   "address": "897 UPPER WELLINGTON ST  HAMILTON ON",
+   "latitude": 43.2501753,
+   "longitude": -79.8062979
+ },
+ {
+   "name": "STEELTOWN DONUTS LIMITED O/A TIM HORTONS",
+   "address": "510 CENTENNIAL PKWY N  HAMILTON ON",
+   "latitude": 43.2166594,
+   "longitude": -79.7577306
+ },
+ {
+   "name": "STEELTOWN DONUTS LTD O/A  TIM HORTONS",
+   "address": "418 SHERMAN AVE N  HAMILTON ON",
+   "latitude": 43.2421355,
+   "longitude": -79.7564199
+ },
+ {
+   "name": "TDL GROUP CORP O/A TIM HORTONS",
+   "address": "8 KING ST E  STONEY CREEK ON",
+   "latitude": 43.264977,
+   "longitude": -79.8322786
+ },
+ {
+   "name": "THE TDL  GROUP COSRP.  O/A TIM HORTONS",
+   "address": "65 OTTAWA ST N  HAMILTON ON",
+   "latitude": 43.2445755,
+   "longitude": -79.8191469
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "1242 HWY 8  STONEY CREEK ON",
+   "latitude": 43.2308333,
+   "longitude": -79.7657856
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "127 BAY ST N  HAMILTON ON",
+   "latitude": 43.262121,
+   "longitude": -79.8723984
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "75 CENTENNIAL PKWY N  HAMILTON ON L8E 2P2",
+   "latitude": 43.2321265,
+   "longitude": -79.7398342
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "257 MAIN ST E  HAMILTON ON",
+   "latitude": 43.2585327,
+   "longitude": -79.8765035
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "2842 BARTON ST E  HAMILTON ON",
+   "latitude": 43.2530584,
+   "longitude": -79.8598268
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "620 KING ST W  HAMILTON ON L8S 1C2",
+   "latitude": 43.2078247,
+   "longitude": -79.6532183
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "235 KING ST W  HAMILTON ON",
+   "latitude": 43.2618921,
+   "longitude": -79.8942238
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "315 CENTENNIAL PKWY N  HAMILTON ON L8E 2X3",
+   "latitude": 43.2394688,
+   "longitude": -79.7600401
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "25 RYMAL RD W  HAMILTON ON",
+   "latitude": 43.2024904,
+   "longitude": -79.8946491
+ },
+ {
+   "name": "TIM HORTON DONUTS",
+   "address": "505 RYMAL RD E BLDG   B HAMILTON ON",
+   "latitude": 43.1978694,
+   "longitude": -79.8714589
+ },
+ {
+   "name": "TIM HORTON DONUTS   O/A ENTERPRISE 1000 INC",
+   "address": "999 UPPER WENTWORTH ST  HAMILTON ON L9A 4X5",
+   "latitude": 43.2177265,
+   "longitude": -79.861375
+ },
+ {
+   "name": "TIM HORTON DONUTS/PIONEER FD SERV LD",
+   "address": "1600 BARTON ST E  HAMILTON ON",
+   "latitude": 43.2291925,
+   "longitude": -79.7714383
+ },
+ {
+   "name": "TIM HORTONS",
+   "address": "2471 BARTON ST E  HAMILTON ON L8E 2X1",
+   "latitude": 43.2460366,
+   "longitude": -79.7947825
+ },
+ {
+   "name": "TIM HORTONS",
+   "address": "2585 BARTON ST E  HAMILTON ON",
+   "latitude": 43.1890234,
+   "longitude": -79.840207
+ },
+ {
+   "name": "TIM HORTONS",
+   "address": "706 QUEENSTON RD  HAMILTON ON",
+   "latitude": 43.2371632,
+   "longitude": -79.7599179
+ },
+ {
+   "name": "TIM HORTONS",
+   "address": "1188 RYMAL RD E  HAMILTON ON L8W 3N7",
+   "latitude": 43.2354495,
+   "longitude": -79.7530213
+ },
+ {
+   "name": "TIM HORTONS",
+   "address": "327 FRUITLAND RD  STONEY CREEK ON",
+   "latitude": 43.2235262,
+   "longitude": -79.7004143
+ },
+ {
+   "name": "TIM HORTONS",
+   "address": "634 PARKDALE AVE N  HAMILTON ON L8H 5Z3",
+   "latitude": 43.2533445,
+   "longitude": -79.7845357
+ },
+ {
+   "name": "TIM HORTONS",
+   "address": "2804 KING ST E  HAMILTON ON L8G 1J5",
+   "latitude": 43.219658,
+   "longitude": -79.7726349
+ },
+ {
+   "name": "TIM HORTON'S",
+   "address": "651 UPPER JAMES ST BLDG B1 HAMILTON ON",
+   "latitude": 43.236944,
+   "longitude": -79.877554
+ },
+ {
+   "name": "TIM HORTONS DONUTS",
+   "address": "888 MAIN ST E  HAMILTON ON",
+   "latitude": 43.2582697,
+   "longitude": -79.8730603
+ },
+ {
+   "name": "TIM HORTONS DONUTS",
+   "address": "954 BARTON ST E  HAMILTON ON",
+   "latitude": 43.2442311,
+   "longitude": -79.8080053
+ },
+ {
+   "name": "TIM HORTONS DONUTS",
+   "address": "136 KENILWORTH AVE N  HAMILTON ON",
+   "latitude": 43.2480483,
+   "longitude": -79.8281712
+ },
+ {
+   "name": "TIM HORTONS DONUTS",
+   "address": "503 MAIN ST E  HAMILTON ON",
+   "latitude": 43.2458374,
+   "longitude": -79.8340731
+ },
+ {
+   "name": "TIM HORTONS DONUTS",
+   "address": "1153 KING ST E  HAMILTON ON",
+   "latitude": 43.2527096,
+   "longitude": -79.8222549
+ },
+ {
+   "name": "2123090 ONTARIO LTD O/A STARBUCKS",
+   "address": "116 KING ST W  HAMILTON ON L8P 4V3",
+   "latitude": 43.2506845,
+   "longitude": -79.8497479
+ },
+ {
+   "name": "LONGO BROTHERS FRUIT MARKETS INC. O/A STARBUCKS",
+   "address": "1191 WILSON ST W BLDG C1.1-C1.4 ANCASTER ON L9G 0E8",
+   "latitude": 43.2579409,
+   "longitude": -79.8721742
+ },
+ {
+   "name": "REDCHURCH CAFE GALLERY LTD",
+   "address": "66 KING ST E  HAMILTON ON",
+   "latitude": 43.2543302,
+   "longitude": -79.8714156
+ },
+ {
+   "name": "1201129 ONTARIO LTD O/A SECOND CUP",
+   "address": "999 UPPER WENTWORTH ST  HAMILTON ON L9A 4X5",
+   "latitude": 43.2177265,
+   "longitude": -79.861375
+ },
+ {
+   "name": "1201129 ONTARIO LTD O/A SECOND CUP",
+   "address": "1405 UPPER JAMES ST  HAMILTON ON",
+   "latitude": 43.2085461,
+   "longitude": -79.8882194
+ },
+ {
+   "name": "2568787 Ontario Ltd. SECOND CUP CO.",
+   "address": "1004 KING ST W  HAMILTON ON L8S 1L1",
+   "latitude": 43.2625054,
+   "longitude": -79.9051272
+ },
+ {
+   "name": "THE SECOND CUP LTD",
+   "address": "1015 GOLF LINKS RD  ANCASTER ON L9K 1L6",
+   "latitude": 43.2283435,
+   "longitude": -79.9408734
+ },
+ {
+   "name": "ARK AND ANCHOR ESPRESSO BAR",
+   "address": "300 KING ST W  HAMILTON ON",
+   "latitude": 43.2593359,
+   "longitude": -79.8781665
+ },
+ {
+   "name": "SAINT JAMES ESPRESSO BAR & EATERY INC",
+   "address": "174 JAMES ST N  HAMILTON ON",
+   "latitude": 43.2611168,
+   "longitude": -79.8669753
+ }
+]

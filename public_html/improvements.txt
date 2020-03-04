@@ -1,0 +1,18 @@
+1. Fixed bug for when .places query did not have that specific item.
+	Before: 
+		- If a marker was clicked and that place did not have any photos, the old photos would stay there.
+	After: 
+		- Hide that particular element if .place query did not have it so that information from previous location was not displayed.
+	
+2. Updated introduction. Added a logo and a description of what the user can do.
+	Increased amount of coffee shop markers while maintaining places query accuracy.
+
+3. Fixed some issues with mobile.
+	- Before: 
+		- Introduction container did not take 100% width
+		- Background colour was not uniform for introduction container: there was white outside the box.
+	- After:
+		- Introduction container now takes 100% width
+		- Background colour is now all grey
+		
+4. 	Fixed responsive design, added header on top to display application name. 
